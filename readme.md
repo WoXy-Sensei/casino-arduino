@@ -1,10 +1,10 @@
 # Arduino Nano Roulette Project
 
-![Project Preview Image](circuit_image.jpg)
+![Project Preview Image](casino.png)
 
 ## About the Project
 
-This project is an exciting simulation of a roulette game using Arduino. The main objective of the project is to represent a roulette wheel using the rotation of LEDs. Additionally, a potentiometer is utilized to allow users to place bets. This repository includes the circuit diagram, Arduino code, and other project-related resources.
+This project is an exciting simulation of a roulette game using Arduino. The main objective of the project is to represent a roulette wheel using the rotation of LEDs. The project only requires button presses for interaction. This repository includes the circuit diagram, Arduino code, and other project-related resources.
 
 ## Requirements
 
@@ -20,9 +20,9 @@ To run the project, you will need the following components:
 
 The circuit diagram is shown below:
 
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](circuit.png)
 
-The circuit diagram image is available in the file "circuit_diagram.png". If you need a more detailed view of the connections, you can use the "circuit_diagram.fzz" file, which is in Fritzing format.
+The circuit diagram image is available in the file "circuit.png".
 
 ## Arduino Code
 
@@ -39,4 +39,5 @@ The Arduino code is available in the file "casino.ino". You can use the Arduino 
 
 If you would like to contribute to this project or fix any issues, feel free to submit a "Pull Request" on GitHub or open an "Issue" to discuss the changes.
 
+<img src = "https://media.tenor.com/A2DlRFtGcmMAAAAC/rulet.gif"></img>
 
